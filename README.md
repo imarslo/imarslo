@@ -13,9 +13,9 @@ Marslo is the stuff devops engineer.
 
 [![](https://img.shields.io/badge/-github@imarslo-911318?style=flat-square&logo=github&logoColor=white&labelColor=c14438)](https://github.com/imarslo) [![](https://img.shields.io/badge/-https://imarslo.github.io-0d62a6?&style=flat&logo=hexo&logoColor=white&labelColor=0b5188)](https://imarslo.github.io) [![](https://img.shields.io/badge/-https://marslo.github.io/ibook-6d1be3?&style=flat&logo=markdown&logoColor=white&labelColor=5b18bb)](https://marslo.github.io/ibook)
 
-**Lanuages and Tools**
+**tools I'm using**
 
-![](https://img.shields.io/badge/-JENKINS-156cc8??logoWidth=48&style=flat-square&logo=Jenkins&logoColor=white&labelColor=145ca7) ![](https://img.shields.io/badge/-JENKINSFILE-e34f26?style=flat-square&logo=Jenkins&logoColor=fff&labelColor=cb351d) ![](https://img.shields.io/badge/-DOCKER-27a3dd?&style=flat&logo=docker&logoColor=white&labelColor=2c87bf) ![](https://img.shields.io/badge/-KUBERNETES-2653de?&style=flat&logo=kubernetes&logoColor=white&labelColor=233cbc) ![](https://img.shields.io/badge/-GROOVY-e77806?&style=flat&logo=groovy&logoColor=white&labelColor=d6700a)
+![](https://img.shields.io/badge/-JENKINS-156cc8??logoWidth=48&style=flat-square&logo=Jenkins&logoColor=white&labelColor=145ca7) ![](https://img.shields.io/badge/-JENKINSFILE-e34f26?style=flat-square&logo=Jenkins&logoColor=fff&labelColor=cb351d) ![](https://img.shields.io/badge/-SHELL%20SCRIPT-233243?&style=flat&logo=gnu-bash&logoColor=white&labelColor=192531) ![](https://img.shields.io/badge/-DOCKER-27a3dd?&style=flat&logo=docker&logoColor=white&labelColor=2c87bf) ![](https://img.shields.io/badge/-KUBERNETES-2653de?&style=flat&logo=kubernetes&logoColor=white&labelColor=233cbc) ![](https://img.shields.io/badge/-GROOVY-e77806?&style=flat&logo=groovy&logoColor=white&labelColor=d6700a) ![](https://img.shields.io/badge/-CONTINUOUS%20INTEGRATION-f65c35?&style=flat) 
 
 
 <!--
