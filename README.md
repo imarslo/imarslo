@@ -11,7 +11,7 @@ Marslo is the stuff devops engineer.
 
 **Lanuages and Tools**
 
-![](https://img.shields.io/badge/-Jenkins-1572b6?style=flat-square&logo=Jenkins&logoColor=1572b6) 
+![](https://img.shields.io/badge/-Jenkins-1572b6?style=flat-square&logo=Jenkins&logoColor=d1d1d1) 
 <!--
 **imarslo/imarslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
