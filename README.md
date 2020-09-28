@@ -1,4 +1,4 @@
-### ## ![](https://img.shields.io/badge/Made%20In-Marslo-1f425f.svg)
+## ![](https://img.shields.io/badge/Made%20In-Marslo-1f425f.svg)
 
 Marslo is the stuff devops engineer.
 
